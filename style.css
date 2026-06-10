@@ -7,6 +7,11 @@
 
 h3{
     color: brown;
+    height: 100px;
+    width: 100px;
+    border: solid white;
+    margin: 50px;
+    padding: 20px;
 }
 #heading{
     color: red;
@@ -17,4 +22,16 @@ h2,h4{
 .head{
     color: rgb();
     border: 4px solid rgb(222,0,255);
+}
+body{
+    background-image: url(img/michael\ jackson\ dangerous\ tattoo.png);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: justify;
+    text-decoration: double;
+    text-align: left;
+    
+
 }
