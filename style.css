@@ -32,6 +32,22 @@ body{
     text-align: justify;
     text-decoration: double;
     text-align: left;
+}
+.container{
+    height: 200px;
+    width: 400px;
+    margin: 40px;
+    background-color: aquamarine; 
+    position: relative;
+    overflow: scroll;
+}
+.box{
+    height: 150px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    top: 3700px;
+    left: 20px;
     
-
+  
 }
