@@ -41,4 +41,12 @@ body{
     height: 400px;
     width: 400px;
     color: gray;
+    display: flex;
+    flex-direction: row;
+}
+label{
+    height: 2px;
+    width: 2px;
+    color: aqua;
+    text-decoration: color(srgb red green blue);
 }
